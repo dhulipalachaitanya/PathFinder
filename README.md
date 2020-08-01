@@ -1,2 +1,3 @@
-# PathFinder
-Robot path finder for a square grid
+``` sh
+Run tests present in src/test/PlanetTest to test all scenarios
+```
